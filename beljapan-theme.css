@@ -178,7 +178,7 @@ html {
   top: 50%;
   left: 0;
   transform: translateY(-50%);
-  background: url(../images/img_title-logo.png) no-repeat center center/contain;
+  background: url(img_title-logo.png) no-repeat center center/contain;
   width: 15px;
   aspect-ratio: 15/15;
 }
@@ -1457,11 +1457,11 @@ recruit
 mv
 ------------------------------*/
 .about-mv {
-  background: url(../images/about_mv.jpg) no-repeat center center/contain;
+  background: url(about_mv.jpg) no-repeat center center/contain;
 }
 @media (max-width: 767px) {
   .about-mv {
-    background: url(../images/about_mv_sp.jpg) no-repeat center center/cover;
+    background: url(about_mv.jpg) no-repeat center center/cover;
   }
 }
 
